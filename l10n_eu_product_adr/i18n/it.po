@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-12 15:06+0000\n"
+"PO-Revision-Date: 2024-12-12 18:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -1569,12 +1569,15 @@ msgid ""
 "AMMUNITION, TEAR-PRODUCING, NON-EXPLOSIVE without burster or expelling "
 "charge, non-fuzed"
 msgstr ""
+"MUNIZIONI LACRIMOGENE, NON ESPLOSIVE senza carica di scoppio o di "
+"espulsione, senza spoletta"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0020
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0021
 msgid "AMMUNITION, TOXIC with burster, expelling charge or propelling charge"
 msgstr ""
+"MUNIZIONI, TOSSICHE con carica di scoppio, di espulsione o di propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2016
@@ -1582,57 +1585,59 @@ msgid ""
 "AMMUNITION, TOXIC, NON-EXPLOSIVE without burster or expelling charge, non-"
 "fuzed"
 msgstr ""
+"MUNIZIONI, TOSSICHE, NON ESPLOSIVE senza carica di scoppio o di espulsione, "
+"non innestate"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1104
 msgid "AMYL ACETATES"
-msgstr ""
+msgstr "ACETATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2819
 msgid "AMYL ACID PHOSPHATE"
-msgstr ""
+msgstr "FOSFATO DELL'ACIDO AMILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2620
 msgid "AMYL BUTYRATES"
-msgstr ""
+msgstr "BUTIRRATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1107
 msgid "AMYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1109
 msgid "AMYL FORMATES"
-msgstr ""
+msgstr "FORMATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1111
 msgid "AMYL MERCAPTAN"
-msgstr ""
+msgstr "AMIL MERCAPTAN"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1112
 msgid "AMYL NITRATE"
-msgstr ""
+msgstr "NITRATO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1113
 msgid "AMYL NITRITE"
-msgstr ""
+msgstr "NITRITO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1106_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1106_5L
 msgid "AMYLAMINE"
-msgstr ""
+msgstr "AMILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1728
 msgid "AMYLTRICHLOROSILANE"
-msgstr ""
+msgstr "AMILTRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1547
